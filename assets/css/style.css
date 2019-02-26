@@ -1,0 +1,75 @@
+body{
+    background-image:url(../images/background.jpg);
+}
+
+h1{
+
+    background-color: teal;
+    color:white;
+}
+
+
+.movie{
+    position: relative;
+    background-color: teal;
+    text-align: center;
+    color:white;
+    width: 297px;
+    height: 33px;
+
+    left: 2px;
+    top: -51px; 
+    z-index: 1;
+}
+
+.movie{
+    position: relative;
+    background-color: teal;
+    font-size: large;
+    text-align: center;
+    color:white;
+    width: 297px;
+    height: 33px;
+
+    left: 2px;
+    top: -51px; 
+    z-index: 1;
+}
+
+.bible{
+    position: relative;
+    background-color: teal;
+    text-align: center;
+    color:white;
+    width: 297px;
+    height: 33px;
+    left: 2px;
+    top: -51px; 
+    z-index: 1;
+}
+
+.disney{
+    position: relative;
+    background-color: teal;
+    text-align: center;         
+    color:white;
+    width: 297px;
+    height: 33px;
+
+    left: 2px;
+    top: -51px; 
+    z-index: 1;
+}
+
+.work{
+    position: relative;
+    background-color: teal;
+    text-align: center;
+    color:white;
+    width: 297px;
+    height: 33px;
+
+    left: 2px;
+    top: -51px; 
+    z-index: 1;
+}
